@@ -1,0 +1,2 @@
+# sumdigitsandevenorodd
+evenorodd with JS
